@@ -87,10 +87,6 @@ li:hover {
     cursor: pointer;
 }
 
-label:checked {
-    color: black;
-}
-
 #bayan input[type="radio"]:checked {
     color: black;
 }
