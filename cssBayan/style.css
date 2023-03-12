@@ -99,10 +99,7 @@ label:hover{
     color: black;
 }
 
-#bayan label input[type="radio"]:checked +.container:hover{
-    max-height: 100%;
 
-}
 
 @media all and (max-width: 820px){
     body{
